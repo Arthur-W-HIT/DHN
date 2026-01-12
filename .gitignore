@@ -1,0 +1,10 @@
+# Do not upload large raw data (MATLAB files)
+*.mat
+
+# MATLAB temp / autosave
+*.asv
+*.m~
+
+# OS junk
+.DS_Store
+Thumbs.db
